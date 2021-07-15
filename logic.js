@@ -65,6 +65,16 @@ scene('main', (args = {}) => {
       '             ^   ^    ()      ',
       'xxxxxxxxxxxxxxxxxxxxxxxx    xx',
     ],
+    [
+      '£                               £',
+      '£                               £',
+      '£                               £',
+      '£        @@@@@      s           £',
+      '£                 s s s         £',
+      '£               s s s s s     -+£',
+      '£      ! !     s s s s s s    ()£',
+      'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz',
+    ],
   ];
 
   const levelCfg = {
