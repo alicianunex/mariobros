@@ -7,6 +7,8 @@ Inspired by [freeCodeCamp](https://www.freecodecamp.org/) tutorial of Ania Kubó
 ⭐
 Made with Javascript and [Kaboom.js](https://kaboomjs.com/)
 
+⭐️ 3 different levels 3 different enemies
+
 ⭐
 Free Mario imgs sample: [Here](https://imgur.com/a/F8Jkryq)
 
