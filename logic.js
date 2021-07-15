@@ -75,6 +75,16 @@ scene('main', (args = {}) => {
       '£      ! !     s s s s s s    ()£',
       'zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz',
     ],
+    [
+      '                               ',
+      '                               ',
+      '                               ',
+      '         %=%                %  ',
+      '                  h   h        ',
+      '                h   h   h    -+',
+      '        ?            ?       ()',
+      'yyyyyyyyyyyyyyyy          yyyyy',
+    ],
   ];
 
   const levelCfg = {
